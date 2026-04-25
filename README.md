@@ -34,11 +34,13 @@ Catch me on playing CS when I'm not pushing commits.
 ### 📊 Badges & Activity
 
 
-  <summary><b>⚙️ GitHub Analytics</b></summary><br>
+  <details>
+  <summary><b>⚙️ GitHub Analytics</b></summary>
   <a href="https://github.com/cemfly">
-    <img style="height: 195px;" src="https://github-readme-stats.vercel.app/api?username=cemfly&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=a855f7&icon_color=0891b2&bg_color=000000&hide_border=true" alt="cemfly's GitHub stats" />
-    <img style="height: 195px;" src="https://github-readme-streak-stats.herokuapp.com/?user=cemfly&stroke=a855f7&background=000000&ring=444e59&fire=444e59&currStreakNum=a855f7&currStreakLabel=444e59&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="cemfly's Streak" />
+    <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/cemfly/cemfly/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Mehmet Cem Asutay GitHub Profile Details" />
+    <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/cemfly/cemfly/main/profile-summary-card-output/github_dark/3-stats.svg" alt="cemfly GitHub Stats" />
   </a>
+</details>
 
 
   <summary><b>📚 Recent Projects / Activity</b></summary><br>

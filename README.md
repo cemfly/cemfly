@@ -31,8 +31,6 @@ Catch me on playing CS when I'm not pushing commits.
   </a>
 </p>
 
-### 📊 Badges & Activity
-
 
   <details>
   <summary><b>⚙️ GitHub Analytics</b></summary>

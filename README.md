@@ -1,7 +1,7 @@
 Hi 👋 My name is Mehmet Cem Asutay
 ==================================
 
-I write code, design 3D parts, and try to make hardware and software play nice together. Co-founder at Quantis. I live in the Linux terminal, use AI to code at 10x speed, and build things like custom optical HUDs just for fun. If there's a hardware component or a fast-paced project involved, I'm in.
+I write code, design 3D parts, and try to make hardware and software play nice together. Co-founder at Quantis. I don't live in the Linux terminal, use AI to code at 10x speed, and build things like custom optical HUDs just for fun. If there's a hardware component or a fast-paced project involved, I'm in.
 
 Catch me on playing CS when I'm not pushing commits.
 

@@ -42,10 +42,10 @@ Catch me on playing CS when I'm not pushing commits.
 
   <summary><b>📚 Recent Projects / Activity</b></summary><br>
   
-  ✨ <b>[Quantis Startup]</b> - Developing mobile and web applications including Rafla and Ostudybuddy.<br>
-  ✨ <b>[DIY Optical HUD]</b> - Hardware project designing a Head-Up Display using OLED screens, beam splitters, and 3D printed parts.<br>
-  ✨ <b>[FlowVision]</b> - Image processing and object detection project utilizing Raspberry Pi and YOLO models.<br>
-  ✨ <b>[Linux & Homelab]</b> - Experimenting, breaking, and fixing Linux distros like CachyOS and Pop!_OS.<br>
+   <b>[Quantis Startup]</b> - Developing mobile and web applications including Rafla and Ostudybuddy.<br>
+   <b>[DIY Optical HUD]</b> - Hardware project designing a Head-Up Display using OLED screens, beam splitters, and 3D printed parts.<br>
+   <b>[FlowVision]</b> - Image processing and object detection project utilizing Raspberry Pi and YOLO models.<br>
+   <b>[Linux & Homelab]</b> - Experimenting, breaking, and fixing Linux distros like CachyOS and Pop!_OS.<br>
 </details>
 
 <br /><br /><br />

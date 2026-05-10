@@ -1,15 +1,14 @@
-Hi 👋 My name is Mehmet Cem Asutay
+Hi 
 ==================================
 
-I write code, design 3D parts, and try to make hardware and software play nice together. Co-founder at Quantis. I don't live in the Linux terminal, use AI to code at 10x speed, and build things like custom optical HUDs just for fun. If there's a hardware component or a fast-paced project involved, I'm in.
+I write code, design 3D parts, and try to make hardware and software play nice together. Co-founder at Quantis. 
 
-Catch me on playing CS when I'm not pushing commits.
 
 * 🌍  I'm based in Adana
 * ✉️  You can contact me at [mehmetcemasutay@hotmail.com](mailto:mehmetcemasutay@hotmail.com)
  I'm currently working on [Quantis](http://thequantis.com/site/)
   
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" />](https://docs.microsoft.com/en-us/dotnet/csharp/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" />](https://www.python.org/)  [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" />](https://reactjs.org/)  [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" />](https://nodejs.org/en/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" />](https://www.postgresql.org/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" />](https://www.raspberrypi.org/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" />](https://www.linux.org) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" />](https://www.docker.com/)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" />](https://docs.microsoft.com/en-us/dotnet/csharp/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" />](https://www.python.org/)  [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" />](https://reactjs.org/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" />](https://www.postgresql.org/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" />](https://www.linux.org)
 
 ### Socials
 

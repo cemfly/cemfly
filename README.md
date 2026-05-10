@@ -44,7 +44,6 @@ I write code, design 3D parts, and try to make hardware and software play nice t
    <b>[Quantis Startup]</b> - Developing mobile and web applications including Rafla and Ostudybuddy.<br>
    <b>[DIY Optical HUD]</b> - Hardware project designing a Head-Up Display using OLED screens, beam splitters, and 3D printed parts.<br>
    <b>[FlowVision]</b> - Image processing and object detection project utilizing Raspberry Pi and YOLO models.<br>
-   <b>[Linux & Homelab]</b> - Experimenting, breaking, and fixing optimazing Linux distros for my pc.<br>
 </details>
 
 <br /><br /><br />

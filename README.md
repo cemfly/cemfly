@@ -1,7 +1,7 @@
 Hi 
 ==================================
 
-I write code, design 3D parts, and try to make hardware and software play nice together. Co-founder at Quantis. 
+I write code, design 3D parts, and try to make hardware and software. Co-founder at Quantis. 
 
 
 * 🌍  I'm based in Adana
